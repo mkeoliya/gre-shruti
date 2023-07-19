@@ -58,7 +58,7 @@ Note: all "strategies" touted by others are bullshit. Your IQ is high enough to 
   - [Princeton Review](./Quant/Princeton_Review.pdf)
   - [Kaplan](./Quant/Kaplan.pdf)
 
-- If feeling dumb about a topic, look at the folder for that topic in [Emergency](./Quant/Emergency)
+- If feeling dumb about a topic, look at the folder for that topic in [Emergency](./Quant/EMERGENCY)
   
 - **Important**: if stuck at a problem, check the answer or Google it immediately. Don't spend more than 2 minutes on a problem. 
 
