@@ -22,7 +22,7 @@ People similar to you: https://www.reddit.com/r/MBA/comments/1221l93/profile_rev
 --- 
 
 ## Study Plan
-- Read all of the [Official Guide](./GRE_Official.pdf), especially Section 7 (Math Review). Focus on reading, not solving. Relax.
+- Read all of the [Official Guide](./General/GRE_Official.pdf), especially Section 7 (Math Review). Focus on reading, not solving. Relax.
 - Then, go through [Quant](#quant) and [Verbal](#verbal-section) and sections one-by-one.
 - In the last 2-3 weeks, take as many practice tests as possible. If you run out, find more practice problems (reach out to ur bro for that).
 - I also like [Princeton Review](./General/Princeton_Review.pdf); it's very readable from cover-to-cover.
@@ -41,10 +41,10 @@ Note: all "strategies" touted by others are bullshit. Your IQ is high enough to 
   -  [Manhattan Prep](./Verbal/Manhattan_Prep.pdf).
   
 - Don't sweat vocab, it usually counts for just a couple of questions on the exam. Use the following lists (in decreasing order of priority):
-  - [Barron's 333](./Verbal/Vocab/Barrons_333.pdf)
-  - [Barron's 800](./Verbal/Vocab/Barrons_800.pdf)
-  - [Magoosh](./Verbal/Vocab/Magoosh.pdf)
-  - [Gregmat](./Verbal/Vocab/Gregmat.pdf)
+  - [Barron's 333](./Vocab/Barrons_333.pdf)
+  - [Barron's 800](./Vocab/Barrons_800.pdf)
+  - [Magoosh](./Vocab/Magoosh.pdf)
+  - [Gregmat](./Vocab/Gregmat.pdf)
 
 
 ### Reading
